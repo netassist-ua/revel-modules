@@ -16,7 +16,7 @@ package db
 import (
 	"database/sql"
 
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 )
 
 // Database connection variables

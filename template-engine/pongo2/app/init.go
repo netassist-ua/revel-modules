@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	p2 "github.com/flosch/pongo2"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 	"github.com/tylerb/gls"
 )
 

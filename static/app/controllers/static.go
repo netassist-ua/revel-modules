@@ -10,7 +10,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 )
 
 // Static file serving controller

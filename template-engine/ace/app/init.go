@@ -2,7 +2,7 @@ package app
 
 import (
 	"fmt"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 	"github.com/yosssi/ace"
 	"html/template"
 	"io"

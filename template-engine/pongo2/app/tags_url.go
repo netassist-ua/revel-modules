@@ -1,7 +1,7 @@
 package pongo2
 
 import (
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel"
 
 	p2 "github.com/flosch/pongo2"
 )

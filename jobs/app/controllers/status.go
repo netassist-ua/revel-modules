@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/revel/cron"
-	"github.com/revel/modules/jobs/app/jobs"
-	"github.com/revel/revel"
+	"github.com/netassist-ua/revel-modules/jobs/app/jobs"
+	"github.com/netassist-ua/revel"
 )
 
 type Jobs struct {
